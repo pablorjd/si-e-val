@@ -1,0 +1,134 @@
+12.- 	¿Cómo se llama el recorrido que hace el pistón dentro del cilindro?
+a) Cilindrada. 
+b) Registro o arqueo. 
+c) Diferencial. 
+d) Carrera. 
+
+Respuesta: letra d
+
+13.- 	La velocidad del motor y su fuerza están en parte determinadas por el tamaño del cilindro y la carrera del émbolo. A esto se le llama comúnmente:
+a) Compresión. 
+b) Cilindrada. 
+c) Desplazamiento. 
+d) Volumen.
+
+Respuesta: letra b
+
+14.- 	Al comienzo, el combustible contaminado produce en el motor:
+a) Detención inmediata.
+b) Pérdida de potencia. 
+c) Rateo del motor.
+d) Aumento de potencia.
+
+Respuesta: letra c
+
+
+15.- 	¿Qué comprime el émbolo dentro del cilindro de un motor de gasolina?
+a) La mezcla gaseosa compuesta de aire y gasolina. 
+b) El aire ambiental hasta conseguir la temperatura de ignición. 
+c) La gasolina finamente pulverizada. 
+d) Los gases de combustión. 
+
+Respuesta: letra a
+
+
+
+
+16.- 	Si falla la refrigeración del motor. ¿Qué perjuicios le puede ocasionar?  
+a) Quede sin agua.
+b) Caliente excesivamente, pudiendo quemarse la junta  de culata.
+c) Dispare el consumo de combustible. 
+d) Queme mal el combustible inyectado. 
+
+Respuesta: letra b
+
+
+17.-   	Las funciones del aceite para un motor son:
+a) Dar presión, calentar y lubricar. 
+b) Dar presión, limpiar y lubricar. 
+c) Quitar presión, limpiar y lubricar. 
+d) Enfriar, limpiar y lubricar. 
+
+Respuesta: letra d
+
+
+18.- 	La chispa de la bujía, ¿Cuándo salta respecto al  punto muerto alto?
+a) Antes. 
+b) Después.
+c) Durante 
+d) Exactamente en el punto muerto alto. 
+
+Respuesta: letra a
+
+
+19.- 	En un motor diesel, ¿Cuál será la causa que produce salida de humo negro por el escape?
+a) Filtro de aire obstruido 
+b) Inyección adelantada. 
+c) Mala pulverización de los inyectores. 
+d) Mal estado de las bujías. 
+
+Respuesta: letra a
+
+20.-	¿Para qué sirve el volante de inercia en un motor? Para....
+
+a)	Dirigir la embarcación.
+b)	Dar más impulso a los arbotantes del cigüeñal.
+c)	Poder cambiar la marcha sin que sufra el motor.
+d)	Regularizar el movimiento del cigüeñal.
+
+Respuesta: letra d
+
+
+21.-	En los motores de dos tiempos, ¿Cuántas revoluciones da el eje cigüeñal por cada 	ciclo de trabajo?
+
+a)	1 revolución.
+b)	3 revoluciones.
+c)	¼  de revolución.
+d)	½ revolución.
+
+Respuesta: letra a
+
+22.- 	Teóricamente, la mezcla en peso de gasolina y aire, suministrada por el carburador, deberá ser de una parte de gasolina por:
+
+a.-	20 partes de aire. 
+b.-    14,7 parte de aire. 
+c.-     91 parte de aire. 
+d.-     92 partes de aire. 
+
+Respuesta: letra b
+
+23.- 	El motor de explosión de dos tiempos, tipo fuera-borda, tiene, sobre los demás motores, la ventaja de:
+
+a.- 	Hacer innecesario el sistema de encendido. 
+b.- 	Reducir el consumo de combustible por caballo de potencia desarrollada. 
+c.- 	Conseguir una mejor lubricación. 
+d.- 	Permitir reducir el peso del motor, por caballo de potencia desarrollada. 
+
+Respuesta: letra d
+
+24.- 	El combustible contaminado con agua inicialmente produce:
+a.- 	Detención del motor
+b.- 	Pérdida de potencia
+c.- 	Rateo del motor
+d.- 	Aumento de potencia
+
+Respuesta: letra c
+
+25.- 	Las  funciones del aceite para un motor son:
+
+a.- 	Dar presión, calentar y lubricar. 
+b.- 	Dar presión, limpiar y lubricar. 
+c.- 	Quitar presión, limpiar y lubricar. 
+d.- 	Enfriar, limpiar y lubricar. 
+
+Respuesta: letra d
+
+
+26.-	Si un motor en funcionamiento echa humo azul por el tubo de escape, ello se debe a:
+
+a.- 	Muy bajo nivel de aceite en el cárter. 
+b.- 	Entrada de agua en el circuito del combustible. 
+c.- 	Que se quema aceite en la cámara de combustión. 
+d.- 	Que el motor funciona sobrecargado
+
+Respuesta: letra c

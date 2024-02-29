@@ -1,0 +1,47 @@
+<IfModule authz_core_module>
+    Require all denied
+</IfModule>
+<IfModule !authz_core_module>
+    Deny from all
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /sievalqa/
+#Removes access to the system folder by users.
+#Additionally this will allow you to create a System.php controller,
+RewriteCond %{REQUEST_URI} ^system.*
+RewriteRule ^(.*)$ index.php?/$1 [L]
+#When your application folder isn't in the system folder
+RewriteCond %{REQUEST_URI} ^application.*
+RewriteRule ^(.*)$ /index.php?/$1 [L]
+#Checks to see if the user is attempting to access a valid file,
+#such as an image or css document, if this isn't true it sends the
+#request to index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^index\.php/(.*)$ index.php/$1 [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?/$1 [L]
+</IfModule>
+<filesMatch "\.(html|htm|js|css|zip|xls)$">
+  FileETag None
+  <ifModule mod_headers.c>
+     Header unset ETag
+     Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+     Header set Pragma "no-cache"
+     Header set Expires "Wed, 11 Jan 1984 05:00:00 GMT"
+  </ifModule>
+</filesMatch>
+<IfModule mod_expires.c>
+   # Enable expirations.
+   ExpiresActive On
+   # Cache all files for 2 weeks after access (A).
+   ExpiresDefault A1209600
+  <FilesMatch (\.js|\.html)$>
+     ExpiresActive Off
+  </FilesMatch>
+ </IfModule>
+ 
